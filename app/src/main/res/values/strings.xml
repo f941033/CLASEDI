@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CLASE-DI</string>
+    <string name="username_Hint">Username</string>
+    <string name="password_Hint">Password</string>
+    <string name="login_button_label">SIGN IN</string>
+    <string name="sign_up_text">Don\'t have an account. Sign Up!</string>
+</resources>
